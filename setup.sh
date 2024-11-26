@@ -7,7 +7,7 @@
 #  |════════════════════════════════════════════════════════════════════════════════════════════════════════════════|
 #
 
-link="https://raw.githubusercontent.com/DindaPutriFN/DindaPutriFN/main/api"
+link="https://raw.githubusercontent.com/mrshahnawazyt/Autoscript-1.13/refs/heads/master/api"
 clear
 #echo "Port 22
 Port 3303
