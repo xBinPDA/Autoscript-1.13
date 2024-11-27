@@ -20,7 +20,7 @@ chmod +x /usr/bin/chisell
 echo "Creating systemd service for Chisel SSL (port 9443)..."
 cat <<EOF > /etc/systemd/system/chisell-ssl.service
 [Unit]
-Description=Chisel Server SSL By FN Project
+Description=Chisel Server SSL By Cyber Project
 After=network.target
 
 [Service]
@@ -37,7 +37,7 @@ EOF
 echo "Creating systemd service for Chisel HTTP (port 8000)..."
 cat <<EOF > /etc/systemd/system/chisell-http.service
 [Unit]
-Description=Chisel Server HTTP By FN Project
+Description=Chisel Server HTTP By Cyber Project
 After=network.target
 
 [Service]
