@@ -437,11 +437,11 @@ menu-ssh
 
 menu-xray() {
 #
-#  |=================================================================================|
-#  • Autoscript AIO Lite Menu By FN Project                                          |
-#  • FN Project Developer @Rerechan02 | @PR_Aiman | @farell_aditya_ardian            |
-#  • Copyright 2024 18 Marc Indonesia [ Kebumen ] | [ Johor ] | [ 上海，中国 ]       |
-#  |=================================================================================|
+#  |═════════════════════════════════════════════════════════════════════════════════|
+#  • Autoscript AIO Lite Menu By cyber Project                                       |
+#  • cyber Project Developer @Shahnawazyt | @Fezansohail | https://t.me/Cyberdecode  |
+#  • Copyright 2024 18 cyber Decode [  ] | [ @cyberdecode ] | [ Pakistan ]           | 
+#  |═════════════════════════════════════════════════════════════════════════════════|
 #
 clear
 
@@ -849,11 +849,11 @@ menu-xray
 nmenu() {
 [[ -e $(which curl) ]] && if [[ -z $(cat /etc/resolv.conf | grep "1.1.1.1") ]]; then cat <(echo "nameserver 1.1.1.1") /etc/resolv.conf > /etc/resolv.conf.tmp && mv /etc/resolv.conf.tmp /etc/resolv.conf; fi
 #
-#  |=================================================================================|
-#  • Autoscript AIO Lite Menu By FN Project                                          |
-#  • FN Project Developer @Rerechan02 | @PR_Aiman | @farell_aditya_ardian            |
-#  • Copyright 2024 18 Marc Indonesia [ Kebumen ] | [ Johor ] | [ 上海，中国 ]       |
-#  |=================================================================================|
+#  |═════════════════════════════════════════════════════════════════════════════════|
+#  • Autoscript AIO Lite Menu By cyber Project                                       |
+#  • cyber Project Developer @Shahnawazyt | @Fezansohail | https://t.me/Cyberdecode  |
+#  • Copyright 2024 18 cyber Decode [  ] | [ @cyberdecode ] | [ Pakistan ]           | 
+#  |═════════════════════════════════════════════════════════════════════════════════|
 #
 
 addn() {
@@ -976,11 +976,11 @@ tampilan
 
 menu-warp() {
 #
-#  |=================================================================================|
-#  • Autoscript AIO By FN Project                                                    |
-#  • FN Project Developer @Rerechan02 | @PR_Aiman | @farell_aditya_ardian            |
-#  • Copyright 2024 18 Marc Indonesia [ Kebumen ] | [ Johor ] | [ 上海，中国 ]        |
-#  |=================================================================================|
+#  |═════════════════════════════════════════════════════════════════════════════════|
+#  • Autoscript AIO Lite Menu By cyber Project                                       |
+#  • cyber Project Developer @Shahnawazyt | @Fezansohail | https://t.me/Cyberdecode  |
+#  • Copyright 2024 18 cyber Decode [  ] | [ @cyberdecode ] | [ Pakistan ]           | 
+#  |═════════════════════════════════════════════════════════════════════════════════|
 #
 
 # Color
@@ -1395,11 +1395,11 @@ menu-trgo
 
 botmenu() {
 #
-#  |=================================================================================|
-#  • Autoscript AIO Lite Menu By FN Project                                          |
-#  • FN Project Developer @Rerechan02 | @PR_Aiman | @farell_aditya_ardian            |
-#  • Copyright 2024 18 Marc Indonesia [ Kebumen ] | [ Johor ] | [ 上海，中国 ]       |
-#  |=================================================================================|
+#  |═════════════════════════════════════════════════════════════════════════════════|
+#  • Autoscript AIO Lite Menu By cyber Project                                       |
+#  • cyber Project Developer @Shahnawazyt | @Fezansohail | https://t.me/Cyberdecode  |
+#  • Copyright 2024 18 cyber Decode [  ] | [ @cyberdecode ] | [ Pakistan ]           | 
+#  |═════════════════════════════════════════════════════════════════════════════════|
 #
 
 termbot() {
@@ -1631,19 +1631,19 @@ mna
 bmenu() {
 #
 #  |==========================================================|
-#  • Autoscript AIO Lite Menu By Rerechan02
-#  • FN Project Developer @Rerechan02 | @PR_Aiman | @xlordeuyy
-#  • Copyright 2024 18 Marc Indonesia [ Kebumen ]
+#  • Autoscript AIO Lite Menu By cyber Project                                       
+#  • cyber Project Developer @Shahnawazyt | @Fezansohail | https://t.me/Cyberdecode 
+#  • Copyright 2024 18 cyber Decode [  ] | [ @cyberdecode ] | [ Pakistan ] 
 #  |==========================================================|
 #
 
 # [ New Copyright ]
 #
-#  |=================================================================================|
-#  • Autoscript AIO Lite Menu By FN Project                                          |
-#  • FN Project Developer @Rerechan02 | @PR_Aiman | @farell_aditya_ardian            |
-#  • Copyright 2024 10 Mei Indonesia [ Kebumen ] | [ Johor ] | [ 上海，中国 ]       |
-#  |=================================================================================|
+#  |═════════════════════════════════════════════════════════════════════════════════|
+#  • Autoscript AIO Lite Menu By cyber Project                                       |
+#  • cyber Project Developer @Shahnawazyt | @Fezansohail | https://t.me/Cyberdecode  |
+#  • Copyright 2024 18 cyber Decode [  ] | [ @cyberdecode ] | [ Pakistan ]           | 
+#  |═════════════════════════════════════════════════════════════════════════════════|
 #
 rest() {
 clear
@@ -3603,7 +3603,7 @@ m2=$(curl -s ifconfig.me)
 IP="$m1 / $m2"
 clear
 echo -e "\e[33m ==================================================\033[0m" | lolcat
-echo -e "                • FN Project •                 "
+echo -e "                • Cyber Project •                 "
 echo -e "\e[33m ==================================================\033[0m" | lolcat
 echo -e "\e[33m OS            \e[0m:  "`hostnamectl | grep "Operating System" | cut -d ' ' -f5-`
 echo -e "\e[33m IP            \e[0m:  $IP"
@@ -3631,8 +3631,8 @@ echo -e ""
 echo -e "\e[33m ==================================================\033[0m" | lolcat
 echo -e "${BICyan}$NC ${BICyan}HARI ini${NC}: ${red}$ttoday$NC ${BICyan}KEMARIN${NC}: ${red}$tyest$NC ${BICyan}BULAN${NC}: ${red}$tmon$NC $NC"
 echo -e "\e[33m ==================================================\033[0m" | lolcat
-echo -e " \e[33mClient Name   \E[0m: @Rerechan02"
-echo -e " \e[33mScrip Version \E[0m: FN Project X Rerechan02"
+echo -e " \e[33mClient Name   \E[0m: @Shahnawazyt"
+echo -e " \e[33mScrip Version \E[0m: Cyber Project X @cyberdecode"
 echo -e "\e[33m ==================================================\033[0m" | lolcat
 echo -e   ""
 read -p " Select menu : " opt
