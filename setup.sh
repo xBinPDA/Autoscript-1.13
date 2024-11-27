@@ -2,8 +2,8 @@
 #
 #  |════════════════════════════════════════════════════════════════════════════════════════════════════════════════|
 #  • Autoscript AIO Lite Menu By cyber Project                                          |
-#  • cyber Project Developer @Shahnawazyt | @Fezansohail | @Forextech5            |
-#  • Copyright 2024 18 cyber Decode [  ] | [ @cyberdecode ] | [ 上海，中国 ]       |
+#  • cyber Project Developer @Shahnawazyt | @Fezansohail | https://t.me/Cyberdecode |
+#  • Copyright 2024 18 cyber Decode [  ] | [ @cyberdecode ] | [ Pakistan ]       |
 #  |════════════════════════════════════════════════════════════════════════════════════════════════════════════════|
 #
 
@@ -102,7 +102,7 @@ apt install dropbear -y
 rm /etc/default/dropbear
 rm /etc/issue.net
 cat> /etc/issue.net << END
-</strong> <p style="text-align:center"><b> <br><font color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br> RERECHAN STORE<br>┗━━━━━━━━━━━━━━━┛<br></font><br><font color="#00FF00"></strong> <p style="text-align:center"><b> <br><font color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</>
+</strong> <p style="text-align:center"><b> <br><font color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br> Cyber Decode<br>┗━━━━━━━━━━━━━━━┛<br></font><br><font color="#00FF00"></strong> <p style="text-align:center"><b> <br><font color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</>
 T̺͆O̺͆ M̺͆Y̺͆ S̺͆E̺͆R̺͆V̺͆E̺͆R̺͆ V͇̿I͇̿P͇̿ ] ★ </b></font><br><font color="#FFF00">Cyber decode</font><br> <font color="#FF00FF">❖Ƭʜᴇ No DDOS</font><br> <font color="#FF0000">❖Ƭʜᴇ No Torrent</font><br> <font color="#FFB1C2">❖Ƭʜᴇ No Bokep </font><b
 <font color="#00FF00">❖Ƭʜᴇ No Mining</font><br> <font color="#00FF00">➳ᴹᴿ᭄ Oder / Trial :
 https://apkvipmod.com </font><br>
@@ -247,13 +247,13 @@ wget -q -O /etc/nginx/nginx.conf "https://raw.githubusercontent.com/DindaPutriFN
 cd
 
 #detail nama perusahaan
-country="ID"
-state="Central Kalimantan"
+country="PK"
+state="Sindh"
 locality="Kab. Kota Waringin Timur"
-organization="FN Project"
+organization="Cyber Project"
 organizationalunit="99999"
-commonname="FN"
-email="rerechan0202@gmail.com"
+commonname="Cyber"
+email="mrshahnawazyt5@gmaul.com"
 
 # delete
 systemctl stop nginx haproxy
