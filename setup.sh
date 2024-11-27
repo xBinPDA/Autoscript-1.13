@@ -34,7 +34,7 @@ chmod +x /var/log/xray/*
 clear
 
 #domain
-read -rp "Masukkan Domain: " domain
+read -rp "Enter Sub Domain: " domain
 #read -p "Nameserver: " nsdomain
 #read -p "Api Bot Token: " api
 #read -p "Admin ID Telegram: " id
