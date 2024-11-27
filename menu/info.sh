@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-# @Rerechan02 | @fn_project Telegram
+# @Shahnawazyt | @cyberdecode Telegram
 # This code is just a sample
 # ___________________________________________
 
@@ -138,7 +138,7 @@ m2=$(curl -s ifconfig.me)
 IP="$m1 / $m2"
 clear
 echo -e "\e[33m ==================================================\033[0m" | lolcat
-echo -e "                • FN Project •                 "
+echo -e "                • Cyber Project •                 "
 echo -e "\e[33m ==================================================\033[0m" | lolcat
 echo -e "\e[33m OS            \e[0m:  "`hostnamectl | grep "Operating System" | cut -d ' ' -f5-`
 echo -e "\e[33m IP            \e[0m:  $IP"
@@ -153,7 +153,7 @@ echo -e "\e[33m ==================================================\033[0m" | lol
 echo -e " ${BICyan}SSH${NC}: $ressh"" ${BICyan}NGINX${NC}: $resngx"" ${BICyan}X-RAY${NC}: $resv2r"
 echo -e " ${BICyan}STUNNEL${NC}: $resst"" ${BICyan}DROPBEAR${NC}: $resdbr"" ${BICyan}WS${NC}: $ressshws "
 echo -e "\e[33m ==================================================\033[0m" | lolcat
-echo -e " \e[33mClient Name   \E[0m: @Rerechan02"
-echo -e " \e[33mScrip Version \E[0m: FN Project X Rerechan02"
+echo -e " \e[33mClient Name   \E[0m: @Shahnawazyt"
+echo -e " \e[33mScrip Version \E[0m: Cyber Project X @Shahnawazyt"
 echo -e "\e[33m ==================================================\033[0m" | lolcat
 echo -e "      ${white} type to access all panel ${WARNING}=> ${BICyan}menu${NC}"
