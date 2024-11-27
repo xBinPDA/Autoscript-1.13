@@ -1,9 +1,9 @@
 #!/bin/bash
 #
 #  |════════════════════════════════════════════════════════════════════════════════════════════════════════════════|
-#  • Autoscript AIO Lite Menu By FN Project                                          |
-#  • FN Project Developer @Rerechan02 | @PR_Aiman | @farell_aditya_ardian            |
-#  • Copyright 2024 18 Marc Indonesia [ Kebumen ] | [ Johor ] | [ 上海，中国 ]       |
+#  • Autoscript AIO Lite Menu By cyber Project                                          |
+#  • cyber Project Developer @Shahnawazyt | @Fezansohail | https://t.me/Cyberdecode |
+#  • Copyright 2024 18 cyber Decode [  ] | [ @cyberdecode ] | [ Pakistan ]       |
 #  |════════════════════════════════════════════════════════════════════════════════════════════════════════════════|
 #
 domain=$(cat /etc/xray/domain)
