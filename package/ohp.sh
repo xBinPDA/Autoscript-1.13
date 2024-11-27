@@ -12,7 +12,7 @@ chmod +x /usr/bin/ohp
 cat > /etc/systemd/system/ssh-ohp.service << END
 [Unit]
 Description=SSH OHP Redirection Service
-Documentation=t.me/fn_project
+Documentation=t.me/Cyberdecode
 After=network.target nss-lookup.target
 
 [Service]
@@ -33,7 +33,7 @@ END
 cat > /etc/systemd/system/dropbear-ohp.service << END
 [Unit]]
 Description=Dropbear OHP Redirection Service
-Documentation=https://t.me/fn_project
+Documentation=https://t.me/Cyberdecode
 After=network.target nss-lookup.target
 
 [Service]
@@ -54,7 +54,7 @@ END
 cat > /etc/systemd/system/openvpn-ohp.service << END
 [Unit]]
 Description=OpenVPN OHP Redirection Service
-Documentation=t.me/fn_project
+Documentation=t.me/Cyberdecode
 After=network.target nss-lookup.target
 
 [Service]
