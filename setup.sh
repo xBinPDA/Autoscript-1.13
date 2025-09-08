@@ -358,15 +358,9 @@ cd
 wget -q https://github.com/praiman99/Plugin-FN/raw/Beginner/plugin.sh ; chmod 777 plugin.sh ; ./plugin.sh ; rm -fr plugin.sh
 
 # Install Warp Cloudflare
-cd /root; wget -O wgcf.sh "https://raw.githubusercontent.com/DindaPutriFN/warp/main/install-warp.sh"; chmod +x /root/*; /root/wgcf.sh; rm -fr /root/*
+cd /root; wget -O wgcf.sh "https://raw.githubusercontent.com/DindaPutriFN/warp/main/install-warp.sh"; chmod +x /root/*; /root/wgcf.sh;  
 
-# Install Backup Google Drive
-cd /root
-wget https://raw.githubusercontent.com/DindaPutriFN/enhanced/main/set-br.sh
-chmod +x /root/*
-cd /root
-./set-br.sh
-rm -fr /root/*
+ 
 
 clear
 
@@ -575,8 +569,7 @@ END
 wget -O /root/ohp.sh "https://raw.githubusercontent.com/DindaPutriFN/Autoscript/main/ohp.sh"
 chmod +x /root/ohp.sh
 cd /root
-./ohp.sh
-rm -fr /root/*
+./ohp.sh 
 
 # Install Trojan Go
 latest_version="$(curl -s "https://api.github.com/repos/p4gefau1t/trojan-go/releases" | grep tag_name | sed -E 's/.*"v(.*)".*/\1/' | head -n 1)"
@@ -778,9 +771,7 @@ systemctl restart trojan-go
 #finishing
 apt autoremove -y
 apt clean
-cd
-rm /root/*.sh
-rm -fr /root/*.py
+cd 
 nsdomain=$(cat /etc/slowdns/nsdomain)
 systemctl restart nginx
 systemctl restart ufw
